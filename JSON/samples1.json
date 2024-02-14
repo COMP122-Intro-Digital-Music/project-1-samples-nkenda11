@@ -4,5 +4,15 @@
     "file": "samples/.mp3",
     "bpm": "120",
     "loop": "16m"
-  }
-]
+  },
+  {
+    "name" : "Project1-Sample2",
+    "file" : "samples/.mp3",
+    "bpm" : "120", 
+  }, 
+  {
+    "name" : "Project1-Sample3", 
+    "file" : "samples/.mp3", 
+    "bpm" : "120", 
+    "loop" : "16m" 
+] 
