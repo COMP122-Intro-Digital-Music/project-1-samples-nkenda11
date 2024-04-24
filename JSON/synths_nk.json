@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Synth Preset 1 ",
+    "type": "Synth",
+    "settings": {
+      "volume": "-5",
+      "detune": "2",
+      "portamento": "2",
+      "envelope": {
+        "attack": "0.1",
+        "attackCurve": "linear",
+        "decay": "0.5",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": "0",
+        "partials": [],
+        "phase": 0,
+        "type": "triangle"
+      }
+    }
+  },
+  {
+    "name": "Synth Present 2 ",
+    "type": "Synth",
+    "settings": {
+      "volume": "-2",
+      "detune": "1",
+      "portamento": "2",
+      "envelope": {
+        "attack": "0.1",
+        "attackCurve": "linear",
+        "decay": "0.5",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": "0",
+        "partials": [],
+        "phase": 0,
+        "type": "triangle"
+      }
+    }
+  }
+]
