@@ -1,1 +1,76 @@
-[ ]
+[
+  {
+    "name": "Project 3 Sequence 1",
+    "loop": "1m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:1:0.0",
+        "pitch": "C4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:3:0.0",
+        "pitch": "E4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:0.0",
+        "pitch": "G4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:3:0.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:0.0",
+        "pitch": "C4",
+        "dur": "8n",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "Project 3 Sequence 2",
+    "loop": "1m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:1:0.0",
+        "pitch": "C4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:3:0.0",
+        "pitch": "Db4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:0.0",
+        "pitch": "E4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:3:0.0",
+        "pitch": "Gb4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:0.0",
+        "pitch": "A4",
+        "dur": "8n",
+        "vel": "1"
+      }
+    ]
+  }
+]
